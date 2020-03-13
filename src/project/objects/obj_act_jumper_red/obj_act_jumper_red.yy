@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_act_jumper_red",
     "eventList": [
-        
+        {
+            "id": "b003eed8-a73e-49ca-abe7-669708bcbcfa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6d5c934a-7a7c-4591-b011-5e6876cefe2b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
