@@ -1,1 +1,1 @@
-var alive = false;
+alive = false;
