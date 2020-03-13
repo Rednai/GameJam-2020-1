@@ -143,11 +143,11 @@
             }
         },
         {
-            "Key": "73c59dcf-3c6f-47cb-bc57-5e066c2f36a8",
+            "Key": "5eff02da-edd0-410c-92e3-d258961b07e3",
             "Value": {
-                "id": "6966d20b-7e92-4823-a45b-c6fb8d4a7166",
-                "resourcePath": "sprites\\spr_back_city\\spr_back_city.yy",
-                "resourceType": "GMSprite"
+                "id": "d8f6c8b5-1f79-46ed-9dd8-d22bf02d195e",
+                "resourcePath": "scripts\\Jumper\\Jumper.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -164,6 +164,14 @@
                 "id": "5663a800-afcc-4039-9dd7-0cd9bd28937a",
                 "resourcePath": "objects\\obj_act_jumper_blue\\obj_act_jumper_blue.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "73c59dcf-3c6f-47cb-bc57-5e066c2f36a8",
+            "Value": {
+                "id": "6966d20b-7e92-4823-a45b-c6fb8d4a7166",
+                "resourcePath": "sprites\\spr_back_city\\spr_back_city.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -319,24 +327,24 @@
             }
         },
         {
-            "Key": "f99af3dd-584b-461d-8c6a-5ad4f0de7e73",
-            "Value": {
-                "id": "3b582f25-44ce-4ec0-9090-7e35570c0b82",
-                "resourcePath": "objects\\obj_player\\obj_player.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "f886fa5b-b836-4403-a835-28d75087c116",
             "Value": {
                 "id": "f7a61f95-664f-4f46-9cb6-9889a7a67fd4",
                 "resourcePath": "views\\f886fa5b-b836-4403-a835-28d75087c116.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "f99af3dd-584b-461d-8c6a-5ad4f0de7e73",
+            "Value": {
+                "id": "3b582f25-44ce-4ec0-9090-7e35570c0b82",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        
+        "5eff02da-edd0-410c-92e3-d258961b07e3"
     ],
     "tutorial": ""
 }
