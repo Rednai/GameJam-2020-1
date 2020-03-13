@@ -1,1 +1,1 @@
-color = true;
+var color = true;
