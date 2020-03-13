@@ -2,7 +2,9 @@
 window_set_fullscreen(true);
 
 // touche activation objet bleu
-blue_input = ord("A")
+blue_input = ord("A");
 
 // touche activation objet rouge
-red_input = ord("Z")
+red_input = ord("Z");
+
+death_count = 0;

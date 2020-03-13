@@ -1,1 +1,2 @@
-color = true;
+var color = true;
+var action;
