@@ -1,5 +1,5 @@
 if (color == false && keyboard_check_pressed(obj_game.red_input)) {
-	script_execute(action, obj_robot,	);
+	script_execute(action, obj_robot, self);
 } else if (color == true && keyboard_check_pressed(obj_game.blue_input)) {
 	script_execute(action, obj_robot, self);
 }

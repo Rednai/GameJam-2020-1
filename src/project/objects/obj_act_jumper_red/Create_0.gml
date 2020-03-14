@@ -1,3 +1,3 @@
-color = false
-
 event_inherited();
+
+color = false
