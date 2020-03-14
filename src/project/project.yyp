@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "32410b8f-6e8d-4878-8655-d9236e70290c",
+            "Value": {
+                "id": "79a1c2f3-d032-46cc-a036-52f90e777d37",
+                "resourcePath": "sprites\\death_counter\\death_counter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3de74e0f-1b2f-4110-b490-d146f37e27ed",
             "Value": {
                 "id": "5ffde93d-a3aa-4977-8523-f36b402c8738",
@@ -499,6 +507,14 @@
             "Value": {
                 "id": "ca6d7486-a51c-4df1-840f-43604fb23f0f",
                 "resourcePath": "sprites\\spr_robot_jump_init_right\\spr_robot_jump_init_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f5175288-aa9e-4150-b965-271b7dce3c70",
+            "Value": {
+                "id": "da359da0-108b-4fdf-accc-5ad8e4ca6caa",
+                "resourcePath": "sprites\\timer\\timer.yy",
                 "resourceType": "GMSprite"
             }
         },
