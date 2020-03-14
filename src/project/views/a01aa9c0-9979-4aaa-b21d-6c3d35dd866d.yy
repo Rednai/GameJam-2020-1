@@ -10,7 +10,7 @@
         "9ffdf3f3-9683-460e-a779-3367bc739d3a"
     ],
     "filterType": "GMSprite",
-    "folderName": "button",
+    "folderName": "buttons",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
