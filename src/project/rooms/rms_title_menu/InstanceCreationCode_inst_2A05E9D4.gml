@@ -1,2 +1,3 @@
 sprite_index = spr_blue_button_classic;
 text = "Play";
+action = src_play_button;
