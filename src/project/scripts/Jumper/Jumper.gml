@@ -7,3 +7,5 @@ if (collision_rectangle(jumper.bbox_left, jumper.bbox_top, jumper.bbox_right, ju
 		player.jumping = true;
 	}
 }
+
+jumper.image_speed = 0.5;
