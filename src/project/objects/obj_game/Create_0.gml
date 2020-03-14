@@ -1,5 +1,5 @@
 // Met la fenêtre en plein écran
-window_set_fullscreen(true);
+window_set_fullscreen(false);
 
 // touche activation objet bleu
 blue_input = ord("A");
