@@ -2,7 +2,7 @@
 
 var bbox_side;
 
-accx = (keyboard_check(vk_right) - keyboard_check(vk_left)) * 10;
+accx = movementSpeed;
 if (keyboard_check(vk_up) && jumping == false) {
 	accy = jumpAcceleration * -1;
 	jumping = true;
