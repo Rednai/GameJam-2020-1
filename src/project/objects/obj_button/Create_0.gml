@@ -1,0 +1,2 @@
+var text = "";
+var action;
