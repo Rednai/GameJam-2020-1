@@ -9,3 +9,4 @@ alive = false;
 
 // Met la fenêtre en plein écran
 window_set_fullscreen(false);
+draw_set_font(fnt_text);
