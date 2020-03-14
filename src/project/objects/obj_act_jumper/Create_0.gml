@@ -1,3 +1,3 @@
-event_inherited();
-
 action = Jumper;
+
+event_inherited();

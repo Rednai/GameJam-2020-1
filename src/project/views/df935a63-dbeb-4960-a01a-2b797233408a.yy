@@ -10,7 +10,9 @@
         "1c901be8-0f07-45fa-ab53-e740063b113f",
         "3ec86e42-7bc0-4d00-850e-d943de430345",
         "cff333f4-3546-4272-922f-e8676a9ff39f",
-        "08d487af-301e-4e8f-b9ca-667a0d2f2033"
+        "6e37762a-3b28-468b-9be9-02265bf70c01",
+        "08d487af-301e-4e8f-b9ca-667a0d2f2033",
+        "f2f703d9-6047-4ce5-a1f1-1667d7589c92"
     ],
     "filterType": "GMSprite",
     "folderName": "robot",

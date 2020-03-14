@@ -5,6 +5,6 @@ window_set_fullscreen(false);
 blue_input = ord("A");
 
 // touche activation objet rouge
-red_input = ord("Z");
+red_input = ord("E");
 
 death_count = 0;

@@ -1,0 +1,1 @@
+targetRoom = pointer_null;

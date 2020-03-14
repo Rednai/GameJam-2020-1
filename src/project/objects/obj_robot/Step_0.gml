@@ -72,10 +72,12 @@ y += int64(speed.y);
 if (speed.x != 0 && speed.y == 0) {
 	if (speed.x < 0) sprite_index = spr_robot_run_left; else sprite_index = spr_robot_run_right;
 } else if (speed.y != 0) {
-	if (speed.y < 0) sprite_index = spr_robot_jump_init; else sprite_index = spr_robot_jump_end;	
-} else if (speed.x == 0 && speed.y == 0) {
-		sprite_index = spr_robot_standby;
-}
+	if (speed.y < 0) {
+		if (speed.x < 0) sprite_index = spr_robot_jump_init_left; else sprite_index = spr_robot_jump_init_right;
+	} else {
+		if (speed.x < 0) sprite_index = spr_robot_jump_end_left; else sprite_index = spr_robot_jump_end_right;
+	}
+} else if (speed.x == 0 && speed.y == 0) sprite_index = spr_robot_standby;
 
 #endregion
 

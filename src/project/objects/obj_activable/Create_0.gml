@@ -1,2 +1,2 @@
-var color = true;
-var action;
+color = true;
+action = pointer_null;
