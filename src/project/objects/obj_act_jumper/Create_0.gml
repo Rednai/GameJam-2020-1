@@ -1,4 +1,4 @@
 event_inherited();
 
-action = Jumper;
+action = src_jumper;
 image_speed = 0;

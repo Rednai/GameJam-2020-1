@@ -1,7 +1,12 @@
-if (obj_start && obj_start.alive == false) {
-	draw_set_halign(fa_center);
-	draw_text(
-			room_width / 2, room_height / 2,
-			"Press A or E to start the level.\n"
-	);
+switch (room) {
+	case rms_title_menu:
+		script_execute(src_gui_game);
+		break;
+	
+	case rms_end_game:
+		script_execute(src_gui_end_game);
+		break;
+	
+	default:
+		script_execute(src_gui_game, alive);
 }

@@ -1,4 +1,4 @@
-obj_start.alive = false;
+obj_game.alive = false;
 
 with(other) {
 	instance_destroy();

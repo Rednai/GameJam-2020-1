@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "29a5680d-8f10-4a12-8e40-708ed371e2cf",
+            "Value": {
+                "id": "ba045b6d-5c56-49c4-9348-f3a9c8d52865",
+                "resourcePath": "scripts\\src_gui_title_menu\\src_gui_title_menu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2a5d0642-09df-4dd4-b6e7-9738a77c36e8",
             "Value": {
                 "id": "8006b4ec-db7a-47ff-9840-2db2a1ba75f4",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "4ae48a7c-a81c-4ae5-a867-e75bf1f87477",
+            "Value": {
+                "id": "33831007-0ad9-4c65-9323-221279f88fcc",
+                "resourcePath": "rooms\\rms_end_game\\rms_end_game.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "55d5a067-6332-4481-a5cd-e3a1c64c742b",
             "Value": {
                 "id": "125daece-169e-431d-9768-4d946e0553bc",
@@ -226,7 +242,7 @@
             "Key": "5eff02da-edd0-410c-92e3-d258961b07e3",
             "Value": {
                 "id": "d8f6c8b5-1f79-46ed-9dd8-d22bf02d195e",
-                "resourcePath": "scripts\\Jumper\\Jumper.yy",
+                "resourcePath": "scripts\\src_jumper\\src_jumper.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -292,6 +308,14 @@
                 "id": "5ed7ae53-cdd7-4c13-9421-e4b585d7fc1c",
                 "resourcePath": "sprites\\spr_door_blue\\spr_door_blue.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8a19cd16-9aee-42f1-a9af-925aa31d3299",
+            "Value": {
+                "id": "cdab8eeb-d237-49b3-a8a8-001d86c32eb1",
+                "resourcePath": "views\\8a19cd16-9aee-42f1-a9af-925aa31d3299.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -388,6 +412,14 @@
                 "id": "2c8e1f9d-d9f7-4017-94d7-362ebb460130",
                 "resourcePath": "objects\\obj_spike\\obj_spike.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c5d8ce7e-18a1-4775-9c82-a72cdc23e4df",
+            "Value": {
+                "id": "32581fce-3b80-4d13-8e59-54aebc29c8ff",
+                "resourcePath": "scripts\\src_gui_game\\src_gui_game.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -503,11 +535,27 @@
             }
         },
         {
+            "Key": "ee8454b2-8028-4328-a854-ef7390e711d1",
+            "Value": {
+                "id": "bc0f492b-7307-4695-beb0-661e6ada4350",
+                "resourcePath": "scripts\\src_gui_end_game\\src_gui_end_game.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f2f703d9-6047-4ce5-a1f1-1667d7589c92",
             "Value": {
                 "id": "ca6d7486-a51c-4df1-840f-43604fb23f0f",
                 "resourcePath": "sprites\\spr_robot_jump_init_right\\spr_robot_jump_init_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f5d06bcc-8e88-48b1-9fd4-3a9a7731ba7b",
+            "Value": {
+                "id": "526c9f2e-a664-41fd-bf24-9d81cd84fc6e",
+                "resourcePath": "views\\f5d06bcc-8e88-48b1-9fd4-3a9a7731ba7b.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -524,6 +572,14 @@
                 "id": "3b582f25-44ce-4ec0-9090-7e35570c0b82",
                 "resourcePath": "objects\\obj_robot\\obj_robot.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fac3b9d8-a665-46d9-99cf-3731b04e2ad7",
+            "Value": {
+                "id": "2c0e96b8-0b42-4206-a161-ee3c8bb4b98f",
+                "resourcePath": "rooms\\rms_title_menu\\rms_title_menu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -544,7 +600,10 @@
         }
     ],
     "script_order": [
-        "5eff02da-edd0-410c-92e3-d258961b07e3"
+        "5eff02da-edd0-410c-92e3-d258961b07e3",
+        "c5d8ce7e-18a1-4775-9c82-a72cdc23e4df",
+        "29a5680d-8f10-4a12-8e40-708ed371e2cf",
+        "ee8454b2-8028-4328-a854-ef7390e711d1"
     ],
     "tutorial": ""
 }

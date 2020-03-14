@@ -1,6 +1,3 @@
-// Met la fenêtre en plein écran
-window_set_fullscreen(false);
-
 // touche activation objet bleu
 blue_input = ord("A");
 
@@ -8,3 +5,7 @@ blue_input = ord("A");
 red_input = ord("E");
 
 death_count = 0;
+alive = false;
+
+// Met la fenêtre en plein écran
+window_set_fullscreen(false);
