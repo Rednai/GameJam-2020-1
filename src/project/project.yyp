@@ -511,14 +511,6 @@
             }
         },
         {
-            "Key": "f5175288-aa9e-4150-b965-271b7dce3c70",
-            "Value": {
-                "id": "da359da0-108b-4fdf-accc-5ad8e4ca6caa",
-                "resourcePath": "sprites\\timer\\timer.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f886fa5b-b836-4403-a835-28d75087c116",
             "Value": {
                 "id": "f7a61f95-664f-4f46-9cb6-9889a7a67fd4",
