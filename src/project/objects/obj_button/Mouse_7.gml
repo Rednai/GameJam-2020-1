@@ -1,1 +1,1 @@
-script_execute(action);
+script_execute(action, obj_game);
