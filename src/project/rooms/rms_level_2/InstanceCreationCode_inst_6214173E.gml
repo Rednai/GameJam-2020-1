@@ -1,1 +1,1 @@
-targetRoom = rms_level_3;
+targetRoom = rms_end_game;
