@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "5352a2a1-416c-4beb-88a4-180a615726c4",
+            "Value": {
+                "id": "ccd32656-9de7-4e17-8470-70a8cda7a6ad",
+                "resourcePath": "fonts\\fnt_text_small\\fnt_text_small.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "55d5a067-6332-4481-a5cd-e3a1c64c742b",
             "Value": {
                 "id": "125daece-169e-431d-9768-4d946e0553bc",
