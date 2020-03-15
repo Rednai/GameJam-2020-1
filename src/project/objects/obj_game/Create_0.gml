@@ -8,5 +8,5 @@ death_count = 0;
 alive = false;
 
 // Met la fenêtre en plein écran
-window_set_fullscreen(false);
+window_set_fullscreen(true);
 draw_set_font(fnt_text);
