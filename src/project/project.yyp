@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "273657ea-5943-4d29-ae4a-42e037a3c07e",
+            "Value": {
+                "id": "6b89784c-78cb-4022-9428-aac22f6b0e6b",
+                "resourcePath": "scripts\\src_exit_button\\src_exit_button.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "29a5680d-8f10-4a12-8e40-708ed371e2cf",
             "Value": {
                 "id": "ba045b6d-5c56-49c4-9348-f3a9c8d52865",
@@ -340,6 +348,14 @@
                 "id": "5ed7ae53-cdd7-4c13-9421-e4b585d7fc1c",
                 "resourcePath": "sprites\\spr_door_blue\\spr_door_blue.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7515631c-e99d-4e00-99f8-46f43c648736",
+            "Value": {
+                "id": "815c201d-3d6d-46bc-96b9-97d1e13be73e",
+                "resourcePath": "scripts\\src_menu_button\\src_menu_button.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -676,7 +692,9 @@
         "c5d8ce7e-18a1-4775-9c82-a72cdc23e4df",
         "29a5680d-8f10-4a12-8e40-708ed371e2cf",
         "ee8454b2-8028-4328-a854-ef7390e711d1",
-        "aeceb95b-5395-49cc-a10b-e58911147a0e"
+        "aeceb95b-5395-49cc-a10b-e58911147a0e",
+        "273657ea-5943-4d29-ae4a-42e037a3c07e",
+        "7515631c-e99d-4e00-99f8-46f43c648736"
     ],
     "tutorial": ""
 }
