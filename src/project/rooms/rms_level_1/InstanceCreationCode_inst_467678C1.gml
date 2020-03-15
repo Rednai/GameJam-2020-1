@@ -1,1 +1,1 @@
-targetRoom = rms_level_5;
+targetRoom = rms_level_2;
